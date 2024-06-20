@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod o-x hello  # Remove execute permission for other users
+chmod 755 hello
